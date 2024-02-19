@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/banner-software-development-programming-web-site-app-laptop-code-ui-ux-interface-concept-coding-testing-usability-design-220115862.jpg)
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">A passionate frontend developer from North Macedonia</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trank-k&label=Profile%20views&color=0e75b6&style=flat" alt="trank-k" /> </p>
 
